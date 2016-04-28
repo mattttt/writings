@@ -9,7 +9,7 @@ I saw this comic right around the time we joined and frankly, it scared me. I ha
 <img src="http://media.rachelnabors.com/wp-content/uploads/2012/04/github_web1.png" height=300> 
 Source: rachelnabors.com
 
-The past year has been great, albeit frustrating at times. I went through a learning curve while contributing to Grafana, but I think a lot of the lessons learned are universal to Open Source Software. With some reflrection, here's what I 
+The past year has been great, albeit frustrating at times. I went through a learning curve while contributing to Grafana, but I think a lot of the lessons learned are universal to Open Source Software. With some reflrection, here's what I learned:
 
 
 ### Take a moment to look around
@@ -34,7 +34,7 @@ When feature/idea/interface element matters, insert yourself into the issue/feat
 
 
 ### Contribute in the way you can
-Especially coming to Grafana on the front-end/UX side, my original contributions were mockups and clickable prototypes. At first, I was apprehensive that I wasnt committing code. I've since realized that a big whole can be the ideation and germination phases of a project. 
+Especially coming to Grafana on the front-end/UX side, my original contributions were mockups and clickable prototypes. At first, I was apprehensive that I wasnt committing code. I've since realized that a big hole can be the ideation and germination phases of a project. 
 
 Bringing some UX best practices into Grafana, I was able to flesh out the New User Registrations process in a flow chart before a single line of code was written. It changed form a few times, and I think it saved a good chunk of actual development/refactoring in the grand scheme. 
 
