@@ -46,13 +46,13 @@ So do what you do best. Any great product or project goes well beyond coding. Th
 Resources: Invision Clickable Prototype
 
 
-### Become an exhibitionist
-This was probably the biggest transition - doing things in public is daunting. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was becauase I didnt have enoug or had not given enough context. In most of the cases that I thought I had a great feature but nobody else cared, it was 100% my fault. 
+### Become an exhibitionist (needs work)
+This was probably the biggest transition - doing things in public is daunting. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was becauase I didnt have enough or had not given enough context. In most of the cases that I thought I had a great feature but nobody else cared, it was 100% my fault. 
 
 Crafting both a description of the problem and how the proposed feature offers a solution is huge. With these, things move faster. If you are misunderstanding, the feedback will be more appropriate, and you'll know why you were mistaken. And if you're bringing new perspective, you've effectively made your case and helped others quickly understand. 
 
 
-### Thicken your skin
+### Thicken your skin  (needs work)
 Not every idea is a good one, and especially when the bar is lowered to submitting mockups & screenshots, I didnt always know the effort required to implementation. When my suggestions were way out of whack with feasibility, Torkel wasnt shy about letting me know. 
 
 Torkel has been the best open source sherpa I could have asked for. He’s solicited ideas, made sure I had ample time to contribute, and turned my clickable prototypes into real code, but there were times that he'd abruptly close an issue saying, in effect, notabugwontfix. At first, it's disconcerting, because I felt like I wasted his time. 
