@@ -9,8 +9,9 @@ I saw this comic right around the time we joined and frankly, it scared me. I ha
 <img src="http://media.rachelnabors.com/wp-content/uploads/2012/04/github_web1.png" height=300> 
 Source: rachelnabors.com
 
-The past year has been great, albeit frustrating at times. I went through a learning curve while contributing to Grafana, but I think a lot of the lessons learned are universal to Open Source Software. With some reflrection, here's what I learned:
+The past year has been great, albeit frustrating at times. I went through a learning curve while contributing to Grafana, and I think a lot of the lessons learned are universal to Open Source Software. 
 
+With some reflrection, here's what I think I learned:
 
 ### Take a moment to look around
 Like most obvious advice, this is often skipped. Torkel was the largest and primary contributor to Grafana at the time (and still is), but there was a community in place. Before jumping in, I wanted to get a sense of that. It's like walking into a new bar and trying to figure out the lay of the land. I see people get frustrated and leave projects right away because they're first remarks werent well received - despite the quality of the remark being poor. 
@@ -28,9 +29,9 @@ Resources: [LICEcap - Simple Animated Gif capture tool](http://www.cockos.com/li
 ### There are no invitiations and nobody is going to wait for you
 Active projects like Grafana move fast. Master changes out from under my feet daily, which is quite different from the world I came from. At first, it was unsettling. “How this can be in master? It’s not done yet. It still needs features a and b. And c. And what about d... And e..."
 
-It's been frustrating at times but it's also reminded me that not all ideas take weeks of ideation and subconscious thought. It takes an unreasonably tight deadline and lots of stress, like any great artist will tell you. 
+While working on Grafana, I'm often reminded that not all great ideas take weeks/months of ideation and subconscious thought. Sometimes it just takes an unreasonably tight deadline and lots of stress (like any great artist will tell you). 
 
-When feature/idea/interface element matters, insert yourself into the issue/feature immediately, and make fast, useful contributions.  It wont be perfect, but it doesnt have to be. 
+When the feature/idea/interface element matters, insert yourself into the issue/feature immediately, and make fast, useful contributions.  It wont be perfect, but it doesnt have to be. This is software; we make it better every single day. 
 
 
 ### Contribute in the way you can
@@ -46,25 +47,32 @@ So do what you do best. Any great product or project goes well beyond coding. Th
 Resources: Invision Clickable Prototype
 
 
-### Become an exhibitionist (needs work)
-This was probably the biggest transition - doing things in public is daunting. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was becauase I didnt have enough or had not given enough context. In most of the cases that I thought I had a great feature but nobody else cared, it was 100% my fault. 
+### Make a strong case
+Doing things in public, asyncronously is daunting. You dont necessarily know your audience, you dont know who will provide feedback, you dont know their perspective, and probably, they dont know yours. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was becauase I didnt have enough or had not given enough context. In most of the cases that I thought I had a great feature but nobody else cared, it was 100% my fault. 
 
 Crafting both a description of the problem and how the proposed feature offers a solution is huge. With these, things move faster. If you are misunderstanding, the feedback will be more appropriate, and you'll know why you were mistaken. And if you're bringing new perspective, you've effectively made your case and helped others quickly understand. 
 
+Anticipate the nobody has the backstory - give enough context to turn lurkers into commentors and contributors. (TMYK!)
 
-### Thicken your skin  (needs work)
-Not every idea is a good one, and especially when the bar is lowered to submitting mockups & screenshots, I didnt always know the effort required to implementation. When my suggestions were way out of whack with feasibility, Torkel wasnt shy about letting me know. 
 
-Torkel has been the best open source sherpa I could have asked for. He’s solicited ideas, made sure I had ample time to contribute, and turned my clickable prototypes into real code, but there were times that he'd abruptly close an issue saying, in effect, notabugwontfix. At first, it's disconcerting, because I felt like I wasted his time. 
+### Thicken your skin
+I have bad ideas. A lot. Going through a bunch of bad ideas is usually the way I find the good ones. 
 
-It is a community, but there is a project lead, and that's a good thing. Ours is Torkel. He's a benevolent dictator. Grafana is his baby, and he will protect it above all else. He is one of the few that understands every idiosyncrasy, and is keeping the product on the right track.
+Torkel has been the best open source sherpa I could have asked for. He’s solicited ideas, made sure I had ample time to contribute, and turned my clickable prototypes into real code, but there were times that he'd abruptly close an issue saying, in effect, notabugwontfix. Or when a suggestion is way out of whack with feasibility, Torkel wasnt shy about letting me know. He was great, but it was disconcerting because I felt like I wasted his time. 
 
-Chin up. If your ideas arent resonating, there is a reason. Do some research, better understand the issue and try again. 
-
+In some cases, I did waste his time, and those are the opportunities to learn. If an ideas is not resonating, there's a reason. Do some research, better understand the issue and try again. 
 
 
 ### Keep at it
 
-Rome wasnt built in a single code commit. I'm extremely proud of what Grafana 3.0 has become, and I do believe my many contributions over the past year have helped make better software for everyone. 
+Rome wasnt built in a single commit. I'm extremely proud of what Grafana 3.0 has become, and I do believe my many contributions over the past year have helped make better software for everyone. 
 
 You can do the same. Pick a project you enjoy (perhaps Grafana?) and start helping. Then in a year, look back, and let me know how it went. Good luck. 
+
+### Contributing to Grafana
+
+If you'd like to contribute to Grafana, we'd love to have you. Here are some ways to get started
+
+- Submit bugs/ideas/PRs/issues on our Github: https://github.com/grafana/grafana/issues
+- Chat with us on our public slack channel - sign up at http://slack.raintank.io
+- Create a plugin for Grafana: https://grafana.net/resources/getting-started-with-plugins
