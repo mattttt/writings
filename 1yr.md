@@ -11,7 +11,7 @@ Source: rachelnabors.com
 
 The past year has been great, albeit frustrating at times. I went through a learning curve while contributing to Grafana, and I think a lot of the lessons learned are universal to Open Source Software. 
 
-With some reflrection, here's what I think I learned:
+With some reflection, here's what I think I learned:
 
 ### Take a moment to look around
 Like most obvious advice, this is often skipped. Torkel was the largest and primary contributor to Grafana at the time (and still is), but there was a community in place. Before jumping in, I wanted to get a sense of that. It's like walking into a new bar and trying to figure out the lay of the land. I see people get frustrated and leave projects right away because they're first remarks werent well received - despite the quality of the remark being poor. 
