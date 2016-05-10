@@ -1,6 +1,6 @@
 ## One year of Open Source, what I've learned
 
-Just over a year ago, I joined raintank and Grafana, bright eyed and ready for a new challenge. One of the most exciting parts of this new adventure was getting to work on Open Source Software. 
+The release of Grafana 3.0 got me a bit nostalgic. Thinking about how much fun I've had over the last year. Making friends out of new colleagues. Getting to work with old friends. And finally contibuting to open source software.
 
 I owe a lot to open source. When we were starting and running Voxel back in 1999, we never would have been a viable company if it wasn’t for projects like Apache, MySQL, CentOS, etc. We never would have had a chance.  But consuming Open Source Software is very different than contributing to it.
 
@@ -48,11 +48,11 @@ Resources: Invision Clickable Prototype
 
 
 ### Make a strong case
-Doing things in public, asynchronously is daunting. You don't necessarily know your audience, you don't know who will provide feedback, you don't know their perspective, and probably, they don't know yours. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was because I didnt have enough or had not given enough context. In most of the cases that I thought I had a great feature but nobody else cared, it was 100% my fault. 
+Doing things in public, asynchronously is daunting. You don't necessarily know your audience, you don't know who will provide feedback, you don't know their perspective, and probably, they don't know yours. There were a few times that I felt really great about a new design/feature, but nobody else thought so. In almost every case, it was because I didnt have enough or had not given enough context. In most of the cases that I thought I had a great feature but nobody else chimed in, it was 100% my fault. 
 
-Crafting both a description of the problem and how the proposed feature offers a solution is huge. With these, things move faster. If you are misunderstanding, the feedback will be more appropriate, and you'll know why you were mistaken. And if you're bringing new perspective, you've effectively made your case and helped others quickly understand. 
+Ideally, you want to craft both a description of the problem and the solution the proposed feature offers. With these, things move faster. If you are misled, the feedback will be more appropriate, and you'll know why you were mistaken. And if you're bringing new perspective, you've effectively made your case and helped others quickly understand. 
 
-Anticipate the nobody has the backstory - give enough context to turn lurkers into commentors and contributors. (TMYK!)
+Anticipate that nobody has the backstory - give enough context to turn lurkers into commentors and contributors. (TMYK!)
 
 
 ### Thicken your skin
